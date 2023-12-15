@@ -1,0 +1,11 @@
+body {
+  background-image: url("C:\Users\dell\Desktop\mini project\image\b1.jpg");
+  background-size: cover; 
+  font-family: Verdana;
+}
+
+header, footer, section, article {
+  border: 5px solid grey;
+  margin: 2px;
+  padding: 3px;
+}
